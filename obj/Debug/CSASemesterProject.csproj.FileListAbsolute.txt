@@ -1,0 +1,17 @@
+C:\Users\hp\source\repos\CSASemesterProject\bin\Debug\CSASemesterProject.exe.config
+C:\Users\hp\source\repos\CSASemesterProject\bin\Debug\CSASemesterProject.exe
+C:\Users\hp\source\repos\CSASemesterProject\bin\Debug\CSASemesterProject.pdb
+C:\Users\hp\source\repos\CSASemesterProject\obj\Debug\CSASemesterProject.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\CSASemesterProject\obj\Debug\CSASemesterProject.Form1.resources
+C:\Users\hp\source\repos\CSASemesterProject\obj\Debug\CSASemesterProject.Properties.Resources.resources
+C:\Users\hp\source\repos\CSASemesterProject\obj\Debug\CSASemesterProject.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\CSASemesterProject\obj\Debug\CSASemesterProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CSASemesterProject\obj\Debug\CSASemesterProject.exe
+C:\Users\hp\source\repos\CSASemesterProject\obj\Debug\CSASemesterProject.pdb
+C:\Users\hp\source\repos\CSASemesterProject\bin\Debug\ScintillaNET.dll
+C:\Users\hp\source\repos\CSASemesterProject\bin\Debug\ScintillaNET.xml
+C:\Users\hp\source\repos\CSASemesterProject\obj\Debug\CSASemesterProject.csproj.CopyComplete
+C:\Users\hp\source\repos\CSASemesterProject\bin\Debug\AutocompleteMenu.dll
+C:\Users\hp\source\repos\CSASemesterProject\obj\Debug\CSASemesterProject.Data_input.resources
+C:\Users\hp\source\repos\CSASemesterProject\bin\Debug\PagedControl.dll
+C:\Users\hp\source\repos\CSASemesterProject\obj\Debug\CSASemesterProject.ElaborateForm.resources
